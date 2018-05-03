@@ -5,11 +5,11 @@
 * a paginated calendar
 
 ## Getting things ready
-```npm install```
-```npm start```
+* ```npm install```
+* ```npm start```
 
-This will install the dependecies and start a webpack-devserver at http://localhost:8080.
-http://localhost:8080 will automatically redirect you to today's date.
+* This will install the dependecies and start a webpack-devserver at http://localhost:8080.
+* http://localhost:8080 will automatically redirect you to today's date.
 
 ## Side Notes
 * The project doesn't make much use of Redux, and Redux-Observables, since everything is done with routing.
