@@ -13,4 +13,5 @@ export default {
     width: '4em',
     height: '4em'
   }
-}
+};
+
