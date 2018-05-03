@@ -17,4 +17,4 @@ This will install the dependecies and start a webpack-devserver at http://localh
 * The project also uses react-loadable, even if its not that widely used.
 
 
-![Calendar](https://giphy.com/gifs/uTBk6Ak53qgzYkbpvF)
+![Calendar](https://media.giphy.com/media/uTBk6Ak53qgzYkbpvF/giphy.gif)
