@@ -1,0 +1,9 @@
+@mixin createSpacings($until) {
+  $i: 8;
+  @while $i <= $until {
+    .spacing-#{$i} {
+      height: #{$i}px;
+    }
+    $i: $i + 8;
+  }
+}

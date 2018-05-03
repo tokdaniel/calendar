@@ -1,0 +1,25 @@
+.monthly-calendar {
+  width: 100%;
+  text-align: center;
+  margin: 40px 0;
+
+  .month-info {
+    margin: 32px 0;
+    font-size: 64px;
+
+    .year {
+      margin-right: 16px;
+    }
+  }
+
+  .calendar-body {
+    display: flex;
+
+    .days-container {
+      display: flex;
+      flex-flow: row wrap;
+      width: 100%;
+      margin-right: 80px;
+    }
+  }
+}

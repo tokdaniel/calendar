@@ -1,0 +1,17 @@
+.day-names {
+  padding: 20px 80px;
+  margin-bottom: 20px;
+  background-color: #333;
+  color: white;
+  display: flex;
+
+  .day-name {
+    width: 14.28%;
+    text-transform: uppercase;
+
+    &.today {
+      background-color: #03A9F4;
+      border-radius: 16px;
+    }
+  }
+}

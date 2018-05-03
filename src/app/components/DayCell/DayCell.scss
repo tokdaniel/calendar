@@ -1,0 +1,40 @@
+$border: 1px solid #333;
+
+.day-cell {
+  width: 14.28%;
+  height: 13vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: $border;
+  border-left: $border;
+  box-sizing: border-box;
+  font-weight: 200;
+  font-size: 64px;
+  color: #BDBDBD;
+  background-color: white;
+
+  &.empty {
+    border: none;
+    background-color: transparent;
+  }
+
+  &.today {
+    background: #03A9F4;
+    color: white;
+    font-weight: 500;
+  }
+
+  &.weekend {
+    background: #EF5350;
+    color: white;
+  }
+
+  &.last-week {
+    border-bottom: $border;
+  }
+
+  &:nth-child(7n), &:last-child {
+    border-right: $border;
+  }
+}
