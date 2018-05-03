@@ -1,6 +1,6 @@
 # This is a calendar for showcase reasons
 
-##Contains:
+## Contains:
 * usage of the react-starter-kit repository (one of my other stuffs)
 * a paginated calendar
 
