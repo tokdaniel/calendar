@@ -5,7 +5,7 @@ const config = require('./runtime');
 
 const plugins = [
   new WebpackNotifierPlugin({
-    title: 'Management-UI development build',
+    title: 'Calendar dev-build',
     alwaysNotify: true
   }),
   new webpack.DefinePlugin({
