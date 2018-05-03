@@ -1,4 +1,4 @@
-# This is a calendar for showcase reasons
+# This is a calendar project for reference
 
 ## Contains:
 * usage of the react-starter-kit repository (one of my other stuffs)
