@@ -15,3 +15,6 @@ This will install the dependecies and start a webpack-devserver at http://localh
 * Recompose is widely used though
 * The build environment is pretty much the latest possible one.
 * The project also uses react-loadable, even if its not that widely used.
+
+
+![Calendar](https://giphy.com/gifs/uTBk6Ak53qgzYkbpvF)
