@@ -4,14 +4,11 @@
 * usage of the react-starter-kit repository (one of my other stuffs)
 * a paginated calendar
 
-This will install the dependecies and start a webpack-devserver at http://localhost:8080.
-
 ## Getting things ready
 ```npm install```
 ```npm start```
 
-this will start the development server
-
+This will install the dependecies and start a webpack-devserver at http://localhost:8080.
 http://localhost:8080 will automatically redirect you to today's date.
 
 ## Side Notes
