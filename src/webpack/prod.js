@@ -16,7 +16,7 @@ const plugins = [
     minRatio: 0.8
   }),
   new WebpackNotifierPlugin({
-    title: 'Management-UI production build',
+    title: 'Calendar prod-build',
     alwaysNotify: true
   }),
   new webpack.DefinePlugin({
