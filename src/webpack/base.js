@@ -86,7 +86,7 @@ module.exports = {
         use: [
           {
             loader: 'file-loader',
-            options: { outputPath: 'survey/' }
+            options: { outputPath: '/' }
           }
         ]
       },
